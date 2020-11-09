@@ -1,4 +1,6 @@
 # ☁️ Smogcloud 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftonghuaroot%2Fsmogcloud.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftonghuaroot%2Fsmogcloud?ref=badge_shield)
+
 
 Find exposed AWS cloud assets that you did not know you had. A comprehensive asset inventory is step one to any capable security program. We made smogcloud to enable security engineers, penetration testers, and AWS administrators to monitor the collective changes that create dynamic and ephemeral internet-facing assets on a more frequent basis. May be useful to identify:
 
@@ -130,3 +132,6 @@ Thank you for inspiration
 ## 📄 License
 
 Smogcloud is licensed under GPLv3, some subcomponents have seperate licenses. 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftonghuaroot%2Fsmogcloud.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftonghuaroot%2Fsmogcloud?ref=badge_large)
